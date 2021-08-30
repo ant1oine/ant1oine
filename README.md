@@ -18,5 +18,5 @@ Passionate about decentralization and blockcahin technology 👀
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 
-<a alt='twitter' src="www.twitter.com"> 
+<a alt='twitter' href='www.twitter.com'> Twitter</a>
 
